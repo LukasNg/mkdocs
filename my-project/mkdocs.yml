@@ -2,5 +2,5 @@ site_name: My Docs
 site_url: https://lukasng.github.io/
 nav:
     - Home: index.md
-    - About: README.md
+    - About: test.md
 theme: readthedocs
